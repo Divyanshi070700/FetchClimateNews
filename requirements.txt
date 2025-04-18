@@ -4,4 +4,4 @@ python-dotenv==1.0.0
 streamlit==1.28.0
 tavily-python==0.0.5
 newspaper3k==0.2.8
-openai==0.28.0
+# openai==0.28.0
